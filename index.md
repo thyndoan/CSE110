@@ -2,15 +2,12 @@
 
 # Thy Doan
 
-## Contents
-
 - [Thy Doan](#thy-doan)
-  - [Contents](#contents)
   - [About Me](#about-me)
   - [Skills](#skills)
-- [Languages](#languages)
-- [Frameworks](#frameworks)
-- [Developer Tools](#developer-tools)
+    - [Languages](#languages)
+    - [Frameworks](#frameworks)
+    - [Developer Tools](#developer-tools)
   - [Hobbies](#hobbies)
   - [Favorite Quote](#favorite-quote)
   - [Goals](#goals)
@@ -18,11 +15,11 @@
 
 ## About Me
 
-I'm a third year _Computer Science_ major
+I'm a third year _Computer Science_ major.
 
 ## Skills
 
-# Languages
+### Languages
 
 - Java
 - Python
@@ -30,11 +27,11 @@ I'm a third year _Computer Science_ major
 - JavaScript
 - HTML/CS
 
-# Frameworks
+### Frameworks
 
 - React
 
-# Developer Tools
+### Developer Tools
 
 - VSCode
 
@@ -50,7 +47,7 @@ I'm a third year _Computer Science_ major
 
 > Programming isn't about what you know; it's about what you can figure out (Chris Pine)
 
-**_ Everyone starts from here_**
+**_Everyone starts from here_**
 
 ```
     print("Hello, World!")
@@ -59,8 +56,8 @@ I'm a third year _Computer Science_ major
 ## Goals
 
 - [x] Admitted into UCSD
-- [] Go to Japan
-- [] Get a Software Engineer job
+- [ ] Go to Japan
+- [ ] Get a Software Engineer job
 
 ## Links
 
